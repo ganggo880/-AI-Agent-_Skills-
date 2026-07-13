@@ -1,0 +1,17 @@
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Obsidian Workspace (ignoring local workspace configs, keeping notes)
+obsidian/.obsidian/
